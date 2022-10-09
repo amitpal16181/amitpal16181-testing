@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate react developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-88074&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-88074" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **react-native**
 
-- 💬 Ask me about **react,django,mysql,mongoDB**
+- 💬 Ask me about **React,Django,Mysql,MongoDB**
 
 - 📫 How to reach me **codingworld2002@gmail.com**
 
-- ⚡ Fun fact **I Think I am noob**
+- ⚡ Fun fact **I am noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
