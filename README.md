@@ -20,6 +20,8 @@
 <a href="https://www.hackerrank.com/codingworld2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codingworld2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codingworld2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codingworld2002" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-88074&show_icons=true&locale=en&layout=compact" alt="gaurav-88074" /></p>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 <h3 align="left">Languages and Tools:</h3>
