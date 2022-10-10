@@ -31,4 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-88074&" alt="gaurav-88074" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=gaurav-88074&](https://activity-graph.herokuapp.com/graph?username=Gaurav-88074&bg_color=0a0a0a&color=ffffff&line=ede8ed&point=f7b950&area=true&hide_border=true)" alt="gaurav-88074" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-88074&](https://activity-graph.herokuapp.com/graph?username=Gaurav-88074&bg_color=0a0a0a&color=ffffff&line=ede8ed&point=f7b950&area=true&hide_border=true" alt="gaurav-88074" /></p>
+
