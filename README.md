@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-88074&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-88074" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-88074&label=Profile%20views&color=0e75b6&style=flat" alt="amitpal16181" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-88074" alt="gaurav-88074" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpal16181" alt="amitpal16181" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **backend development**
 
-- 💬 Ask me about **React,Django,Mysql,MongoDB**
+- 💬 Ask me about **C++, NodeJS, MySQL**
 
-- 📫 How to reach me **codingworld2002@gmail.com**
+- 📫 How to reach me **amitpal16181@gmail.com**
 
 - ⚡ Fun fact **I am noob**
 
